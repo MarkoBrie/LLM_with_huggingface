@@ -7,5 +7,9 @@ Recall that creating a ChatGPT at home involves 3 steps:
 2. supervised fine-tuning (SFT) to turn the base model into a useful assistant
 3. human preference fine-tuning which increases the assistant's friendliness, helpfulness and safety.
 
-Step 2 in:  
+**Step 2 in:**  
 Supervised_fine_tuning_(SFT)_of_an_LLM_using_Hugging_Face_tooling.ipynb
+
+
+**Step 3 in:**
+Fine-tune a SFT model with direct preference optimization (DPO).ipynb
